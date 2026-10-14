@@ -17,7 +17,20 @@ Download media you own or have permission to save, keep it in a local library, a
 - Plays the supplied CD reference clip silently as a looping music visual, displayed sideways in landscape.
 - Supports Light/Dark appearance and scrolls through a native frame viewport to avoid canvas-scroll text artifacts on Windows.
 
-![Player with optional ASCII display](screenshots/player-ascii.png)
+## Player preview
+
+<table>
+  <tr>
+    <th>ASCII view</th>
+    <th>CD music visual</th>
+  </tr>
+  <tr>
+    <td width="50%"><img src="screenshots/player-ascii.png" alt="Himawari player with ASCII display" width="100%"></td>
+    <td width="50%"><img src="screenshots/player-cd.png" alt="Himawari player showing the supplied rotating CD clip" width="100%"></td>
+  </tr>
+</table>
+
+The CD preview is a still screenshot of the supplied video, which loops during music playback.
 
 ## Download the source
 
